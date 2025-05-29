@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @absolutionn;
-- 👀 I’m mainly interested in web development (using JS/TS, React and MySQL);
+- 👀 I’m mainly interested in full-stack web development (using JS/TS, React and MySQL);
 - 🌱 I’m currently learning how to use MySQL with React;
-- 💞️ I’m looking to collaborate on nowhere for now ig ;
-- 📫 How to reach me W.I.P. 
+- 💞️ I’m looking to collaborate on nowhere for now;
+- 📫 How to reach me? Good question indeed. 
 - ⚡ Fun fact: AUSTRALIA is wider than the MOON. The moon sits at 3400km in diameter, while Australia’s diameter from east to west is almost 4000km. RUN 
 
 <!---
